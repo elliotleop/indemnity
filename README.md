@@ -1,6 +1,6 @@
 # The Indemnity Ladder: How Baskets, Caps and Price Move Together in Acquisition Agreements
 
-Elliot Past and Rory Campbell. Working draft, 3 November 2026.
+Elliot Past and Rory Campbell. Working draft, 4 November 2026.
 
 **[Read the paper (PDF)](Past_Campbell_Indemnity_Ladder_2026.pdf)**
 
