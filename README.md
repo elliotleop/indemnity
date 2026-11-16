@@ -1,4 +1,4 @@
-﻿# The Indemnity Ladder: How Baskets, Caps and Price Move Together in Acquisition Agreements
+# The Indemnity Ladder: How Baskets, Caps and Price Move Together in Acquisition Agreements
 
 Elliot Past and Rory Campbell. Working draft, 12 November 2026.
 
